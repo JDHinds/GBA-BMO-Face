@@ -1,5 +1,3 @@
-#include "Intellisense.h"
-
 #define REG_KEYINPUT  (* (volatile unsigned short*) 0x4000130)
 
 #define KEY_A        0x0001
